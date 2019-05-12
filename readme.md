@@ -1,3 +1,16 @@
-# Exercice
+# Exercice 3
 
-Ecrire un programme qui demande à l'utilisateur de saisir deux entiers successivement, et affiche le résultat de l'addition de ces deux entiers à l'écran.
+## Structure conditionnelle
+
+```python
+if (condition):
+  expression
+else:
+  expression
+```
+
+## Exercice
+
+Faire une évolution du programme précédent:
+
+- Afficher "C'est vachement gros" lorsque le résultat dépasse 1000.
