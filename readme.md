@@ -1,16 +1,12 @@
 # Exercice 3
 
-## Structure conditionnelle
+## Function
 
 ```python
-if (condition):
-  expression
-else:
-  expression
+def maFonction()
+  # instruction
 ```
 
 ## Exercice
 
-Faire une évolution du programme précédent:
-
-- Afficher "C'est vachement gros" lorsque le résultat dépasse 1000.
+Ecrire un programme qui prend un choix d'utilisateur (p/f/c) et qui affiche le vrai choix de l'utilisateur à l'écran (pierre / feuille ciseau)
